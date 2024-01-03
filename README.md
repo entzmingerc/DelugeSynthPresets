@@ -30,7 +30,6 @@ z64
 
 ## Free preset packs:
 Guilherm3 AKA G-Red 
-- https://www.ohdeo.com
 - https://www.youtube.com/watch?v=bKuu4g8CjIU
 - https://forums.synthstrom.com/discussion/712/100-presets-for-synthstrom-deluge
 
