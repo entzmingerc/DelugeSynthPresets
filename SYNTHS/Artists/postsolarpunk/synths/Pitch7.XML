@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sound
+	firmwareVersion="3.1.4"
+	earliestCompatibleFirmware="3.1.0-beta"
+	polyphonic="poly"
+	voicePriority="1"
+	mode="subtractive"
+	lpfMode="24dB"
+	modFXType="chorus">
+	<osc1
+		type="sine"
+		transpose="0"
+		cents="0"
+		retrigPhase="-1" />
+	<osc2
+		type="sine"
+		transpose="-24"
+		cents="0"
+		oscillatorSync="1"
+		retrigPhase="-1" />
+	<lfo1 type="sine" syncLevel="0" />
+	<lfo2 type="sine" />
+	<unison num="2" detune="20" />
+	<delay
+		pingPong="1"
+		analog="0"
+		syncLevel="7" />
+	<compressor
+		syncLevel="0"
+		attack="327244"
+		release="256" />
+	<defaultParams
+		arpeggiatorGate="0x00000000"
+		portamento="0x80000000"
+		compressorShape="0xDC28F5B2"
+		oscAVolume="0x7FFFFFFF"
+		oscAPulseWidth="0x00000000"
+		oscBVolume="0x7FFFFFD2"
+		oscBPulseWidth="0x00000000"
+		noiseVolume="0x80000000"
+		volume="0x44000000"
+		pan="0x00000000"
+		lpfFrequency="0x20000000"
+		lpfResonance="0xB8000000"
+		hpfFrequency="0xA2000000"
+		hpfResonance="0xE6000000"
+		lfo1Rate="0xAE000000"
+		lfo2Rate="0xE6666654"
+		modulator1Amount="0x80000000"
+		modulator1Feedback="0x80000000"
+		modulator2Amount="0x80000000"
+		modulator2Feedback="0x80000000"
+		carrier1Feedback="0x80000000"
+		carrier2Feedback="0x80000000"
+		modFXRate="0x28F5C271"
+		modFXDepth="0x1EB851CF"
+		delayRate="0x00000000"
+		delayFeedback="0x80000000"
+		reverbAmount="0x56000000"
+		arpeggiatorRate="0xC7AE146E"
+		stutterRate="0x00000000"
+		sampleRateReduction="0x80000000"
+		bitCrush="0x80000000"
+		modFXOffset="0x23D70A20"
+		modFXFeedback="0x00000000">
+		<envelope1
+			attack="0x851EB851"
+			decay="0xBD70A3CC"
+			sustain="0x80000000"
+			release="0xA3D70A37" />
+		<envelope2
+			attack="0xE6666654"
+			decay="0xB851EB7B"
+			sustain="0x80000000"
+			release="0x0A3D708B" />
+		<patchCables>
+			<patchCable
+				source="velocity"
+				destination="volume"
+				amount="0x3FFFFFE8" />
+			<patchCable
+				source="lfo1"
+				destination="lfo2Rate"
+				amount="0x1EB851E0" />
+			<patchCable
+				source="compressor"
+				destination="lpfResonance"
+				amount="0x33333320" />
+			<patchCable
+				source="lfo2"
+				destination="env1Release"
+				amount="0xF47AE14C" />
+			<patchCable
+				source="lfo2"
+				destination="range"
+				amount="0x1FFFFFF4" />
+			<patchCable
+				source="lfo2"
+				destination="env1Decay"
+				amount="0x0A3D70A0" />
+			<patchCable
+				source="compressor"
+				destination="lfo1Rate"
+				amount="0x39999984" />
+			<patchCable
+				source="compressor"
+				destination="modFXRate"
+				amount="0x370A3D5C" />
+			<patchCable
+				source="lfo1"
+				destination="lpfFrequency"
+				amount="0x0CCCCCC8" />
+			<patchCable
+				source="envelope2"
+				destination="lpfFrequency"
+				amount="0xEF5C28FC" />
+			<patchCable
+				source="compressor"
+				destination="lpfFrequency"
+				amount="0xF1EB8524" />
+			<patchCable
+				source="envelope1"
+				destination="lpfFrequency"
+				amount="0x11EB8518" />
+			<patchCable
+				source="envelope1"
+				destination="hpfFrequency"
+				amount="0x26666658" />
+			<patchCable
+				source="envelope2"
+				destination="hpfFrequency"
+				amount="0x147AE140" />
+			<patchCable
+				source="lfo2"
+				destination="hpfFrequency"
+				amount="0xFC28F5C4" />
+			<patchCable
+				source="lfo1"
+				destination="hpfFrequency"
+				amount="0x0CCCCCC8" />
+			<patchCable
+				source="compressor"
+				destination="arpRate"
+				amount="0xEB851EC0" />
+			<patchCable
+				source="lfo1"
+				destination="arpRate"
+				amount="0x1EB851E0" />
+		</patchCables>
+		<equalizer
+			bass="0x24000000"
+			treble="0x2E000000"
+			bassFrequency="0x00000000"
+			trebleFrequency="0x00000000" />
+	</defaultParams>
+	<arpeggiator
+		mode="down"
+		numOctaves="3"
+		syncLevel="0" />
+	<modKnobs>
+		<modKnob controlsParam="pan" />
+		<modKnob controlsParam="volumePostFX" />
+		<modKnob controlsParam="lpfResonance" />
+		<modKnob controlsParam="lpfFrequency" />
+		<modKnob controlsParam="env1Release" />
+		<modKnob controlsParam="env1Attack" />
+		<modKnob controlsParam="delayFeedback" />
+		<modKnob controlsParam="delayRate" />
+		<modKnob controlsParam="reverbAmount" />
+		<modKnob controlsParam="volumePostReverbSend" patchAmountFromSource="compressor" />
+		<modKnob controlsParam="pitch" patchAmountFromSource="lfo1" />
+		<modKnob controlsParam="lfo1Rate" />
+		<modKnob controlsParam="portamento" />
+		<modKnob controlsParam="stutterRate" />
+		<modKnob controlsParam="bitcrushAmount" />
+		<modKnob controlsParam="sampleRateReduction" />
+	</modKnobs>
+</sound>

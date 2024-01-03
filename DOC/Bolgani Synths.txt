@@ -1,0 +1,17 @@
+B Random - 15 synths not touched by human hand
+
+These synths were randomly created as a demonstration of Delugeator 2.0's random synth generator for FW 4+. 
+They were not edited afterwards and are not intented to be really useful or stuff like that but I thought they sounded funny. 
+
+Listen, use and edit at your own risk, no earsplitters included (well, maybe Brainwrecker). Remember to have fun.
+
+Installation: unzip to SYNTHS-folder in your Deluge SD card.
+
+Oh and these are in a folder, if you haven't used Deluge synth folders before it's LOAD + SYNTH and you see folders, see this: https://www.youtube.com/watch?v=amgilVS-C1k
+
+Demo + link to Delugetor 1.5 download: https://www.youtube.com/watch?v=t6jkPZ88UsA 
+My UTub channel: https://www.youtube.com/channel/UCQw4LIFkSqQOHLuC3YpqI5Q
+Me in Synthstrom forums: https://forums.synthstrom.com/profile/Bolgani
+
+Merry Xmas 2022 from Mr B!
+
