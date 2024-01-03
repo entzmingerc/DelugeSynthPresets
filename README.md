@@ -86,8 +86,8 @@ Hypnotic Sounds
 
 Link to [download wavetables presets](https://drive.google.com/file/d/1ncQXcsTkiZ1UjUph6qVSI6jD7DGtKSOT/view?usp=drive_link)
 
-SYNTHS\CommunityWavetables
-SAMPLES\WAVETABLES\CommunityWavetables
+SYNTHS\CommunityWavetables  
+SAMPLES\WAVETABLES\CommunityWavetables  
 
 This is around 813 wavetable presets for Synthstrom Deluge. They are simply the wavetables loaded into an initialized synth patch to easily browse wavetables.
 
