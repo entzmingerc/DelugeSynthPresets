@@ -37,7 +37,7 @@ Guilherm3 AKA G-Red
 sebnx 
 - Free Synthstrom Deluge Preset Pack (https://muted.io/deluge/)
 
-fenix song 
+Fenix Song 
 - https://www.fenixsong.com/fm-synth
 - FM Subtractive Tutorial (https://forums.synthstrom.com/discussion/3964/drumsynth-deluge-kits-using-synth-engine-fm-subtractive-tutorial-files)
 - FM Bells (https://forums.synthstrom.com/discussion/3813/more-free-fm-patches-bells-video-how-to-build-them)
