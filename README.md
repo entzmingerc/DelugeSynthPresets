@@ -54,6 +54,8 @@ rephazer
 TJontheRoad
 - Delugetions Free Synth & Samples Pack (https://tjontheroad.com/downloads/ols/products/delugetions-free-synth-samples-pack)
 
+postsolarpunk
+- Pulsar-23, $12 Toy Drum, and Found Sound Multisample Presets (https://drive.google.com/file/d/1-pfH2w9ZSnLJXivSJ5kKiX09TENTXyH8/view?usp=sharing)  
 
 ## Paid for preset packs:
 Synth Patches
