@@ -43,7 +43,7 @@ fenix song
 - FM Bells (https://forums.synthstrom.com/discussion/3813/more-free-fm-patches-bells-video-how-to-build-them)
 - FM Patch Sound Design (https://forums.synthstrom.com/discussion/3707/fm-patches-sound-design-by-fenix-song-free-set)
 
-Meat Beats, danny taurus
+Meat Beats, Danny Taurus
 - Famous Sounds for Deluge (https://meatbeats.gumroad.com/l/famous-sounds-deluge)
 - Juno Works for Deluge (https://meatbeats.gumroad.com/l/juno-works-deluge)
 - Acid House for Deluge (https://meatbeats.gumroad.com/l/acid-house-deluge)
