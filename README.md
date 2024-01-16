@@ -30,20 +30,19 @@ z64
 
 ## Free preset packs:
 Guilherm3 AKA G-Red 
-- https://www.ohdeo.com
 - https://www.youtube.com/watch?v=bKuu4g8CjIU
 - https://forums.synthstrom.com/discussion/712/100-presets-for-synthstrom-deluge
 
 sebnx 
 - Free Synthstrom Deluge Preset Pack (https://muted.io/deluge/)
 
-fenix song 
+Fenix Song 
 - https://www.fenixsong.com/fm-synth
 - FM Subtractive Tutorial (https://forums.synthstrom.com/discussion/3964/drumsynth-deluge-kits-using-synth-engine-fm-subtractive-tutorial-files)
 - FM Bells (https://forums.synthstrom.com/discussion/3813/more-free-fm-patches-bells-video-how-to-build-them)
 - FM Patch Sound Design (https://forums.synthstrom.com/discussion/3707/fm-patches-sound-design-by-fenix-song-free-set)
 
-Meat Beats, danny taurus
+Meat Beats, Danny Taurus
 - Famous Sounds for Deluge (https://meatbeats.gumroad.com/l/famous-sounds-deluge)
 - Juno Works for Deluge (https://meatbeats.gumroad.com/l/juno-works-deluge)
 - Acid House for Deluge (https://meatbeats.gumroad.com/l/acid-house-deluge)
@@ -55,6 +54,8 @@ rephazer
 TJontheRoad
 - Delugetions Free Synth & Samples Pack (https://tjontheroad.com/downloads/ols/products/delugetions-free-synth-samples-pack)
 
+postsolarpunk
+- Pulsar-23, $12 Toy Drum, and Found Sound Multisample Presets (https://drive.google.com/file/d/1-pfH2w9ZSnLJXivSJ5kKiX09TENTXyH8/view?usp=sharing)  
 
 ## Paid for preset packs:
 Synth Patches
@@ -86,8 +87,8 @@ Hypnotic Sounds
 
 Link to [download wavetables presets](https://drive.google.com/file/d/1ncQXcsTkiZ1UjUph6qVSI6jD7DGtKSOT/view?usp=drive_link)
 
-SYNTHS\CommunityWavetables
-SAMPLES\WAVETABLES\CommunityWavetables
+SYNTHS\CommunityWavetables  
+SAMPLES\WAVETABLES\CommunityWavetables  
 
 This is around 813 wavetable presets for Synthstrom Deluge. They are simply the wavetables loaded into an initialized synth patch to easily browse wavetables.
 
