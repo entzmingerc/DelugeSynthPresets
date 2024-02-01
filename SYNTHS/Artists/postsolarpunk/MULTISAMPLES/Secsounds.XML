@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sound
+	firmwareVersion="4.1.4-alpha"
+	earliestCompatibleFirmware="4.1.0-alpha"
+	polyphonic="poly"
+	voicePriority="1"
+	mode="subtractive"
+	lpfMode="24dB"
+	hpfMode="HPLadder"
+	modFXType="none"
+	filterRoute="H2L">
+	<osc1
+		type="sample"
+		loopMode="1"
+		reversed="0"
+		timeStretchEnable="0"
+		timeStretchAmount="0">
+		<sampleRanges>
+			<sampleRange
+				rangeTopNote="5"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Drill Hand DeWalt and bits 10 [2022-06-17 182243].wav"
+				transpose="55">
+				<zone
+					startSamplePos="0"
+					endSamplePos="18432" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="6"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Drill Hand DeWalt and bits 11 [2022-06-17 182244].wav"
+				transpose="54">
+				<zone
+					startSamplePos="0"
+					endSamplePos="9216" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="7"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Drill Hand DeWalt and bits 12 [2022-06-17 182246].wav"
+				transpose="53">
+				<zone
+					startSamplePos="0"
+					endSamplePos="13824" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="8"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Drill Hand DeWalt and bits 13 [2022-06-17 182249].wav"
+				transpose="52">
+				<zone
+					startSamplePos="0"
+					endSamplePos="46080" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="9"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Drill Hand DeWalt and bits 14 [2022-06-17 182253].wav"
+				transpose="51">
+				<zone
+					startSamplePos="0"
+					endSamplePos="36864" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="10"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Drill Hand DeWalt and bits 15 [2022-06-17 182254].wav"
+				transpose="50">
+				<zone
+					startSamplePos="0"
+					endSamplePos="36864" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="11"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Drill Hand DeWalt and bits 16 [2022-06-17 182257].wav"
+				transpose="49">
+				<zone
+					startSamplePos="0"
+					endSamplePos="36864" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="12"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Drill Hand DeWalt and bits 17 [2022-06-17 182259].wav"
+				transpose="48">
+				<zone
+					startSamplePos="0"
+					endSamplePos="50688" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="13"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Drill Hand DeWalt and bits 18 [2022-06-17 182304].wav"
+				transpose="47">
+				<zone
+					startSamplePos="0"
+					endSamplePos="41472" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="15"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Drill Hand DeWalt and bits 19 [2022-06-17 182306].wav"
+				transpose="46">
+				<zone
+					startSamplePos="0"
+					endSamplePos="59904" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="16"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Drill Hand DeWalt and bits 21 [2022-06-17 182313].wav"
+				transpose="44">
+				<zone
+					startSamplePos="0"
+					endSamplePos="50688" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="20"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Drill Hand DeWalt and bits 24 [2022-06-17 182324].wav"
+				transpose="43">
+				<zone
+					startSamplePos="0"
+					endSamplePos="46080" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="44"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Drill Press WEN 1 [2022-06-17 182325].wav"
+				transpose="36">
+				<zone
+					startSamplePos="0"
+					endSamplePos="36864" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="65"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Nitrogen Tank 11 [2022-06-17 182710].wav"
+				transpose="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="41472" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="66"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Nitrogen Tank 13 [2022-06-17 182714].wav"
+				transpose="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="36864" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="67"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Nitrogen Tank 14 [2022-06-17 182715].wav"
+				transpose="-7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="46080" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="68"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Nitrogen Tank 15 [2022-06-17 182716].wav"
+				transpose="-8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="50688" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="69"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Nitrogen Tank 16 [2022-06-17 182717].wav"
+				transpose="-9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="27648" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="70"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Nitrogen Tank 17 [2022-06-17 182717].wav"
+				transpose="-10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="41472" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="71"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Nitrogen Tank 18 [2022-06-17 182718].wav"
+				transpose="-11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="46080" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="72"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Nitrogen Tank 20 [2022-06-17 182725].wav"
+				transpose="-12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="18432" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="73"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Nitrogen Tank 21 [2022-06-17 182726].wav"
+				transpose="-13">
+				<zone
+					startSamplePos="0"
+					endSamplePos="23040" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="74"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Nitrogen Tank 22 [2022-06-17 182727].wav"
+				transpose="-14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="27648" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="75"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Nitrogen Tank 23 [2022-06-17 182727].wav"
+				transpose="-15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="36864" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="76"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Nitrogen Tank 24 [2022-06-17 182728].wav"
+				transpose="-16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="46080" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="80"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Nitrogen Tank 25 [2022-06-17 182730].wav"
+				transpose="-17">
+				<zone
+					startSamplePos="0"
+					endSamplePos="41472" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="83"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Office Printer 1 [2022-06-17 182742].wav"
+				transpose="-23">
+				<zone
+					startSamplePos="0"
+					endSamplePos="41472" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="84"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Office Printer 2 [2022-06-17 182743].wav"
+				transpose="-24">
+				<zone
+					startSamplePos="0"
+					endSamplePos="18432" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="85"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Office Printer 3 [2022-06-17 182746].wav"
+				transpose="-25">
+				<zone
+					startSamplePos="0"
+					endSamplePos="36864" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="86"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Office Printer 4 [2022-06-17 182747].wav"
+				transpose="-26">
+				<zone
+					startSamplePos="0"
+					endSamplePos="32256" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="87"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Office Printer 5 [2022-06-17 182748].wav"
+				transpose="-27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="64512" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="88"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Office Printer 6 [2022-06-17 182749].wav"
+				transpose="-28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="27648" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="89"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Othmer Hallway Door 1 [2022-06-17 182754].wav"
+				transpose="-29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="32256" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="90"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Othmer Hallway Door 2 [2022-06-17 182755].wav"
+				transpose="-30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="73728" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="91"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Othmer Hallway Door 3 [2022-06-17 182756].wav"
+				transpose="-31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="36864" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="92"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Othmer Hallway Door 4 [2022-06-17 182757].wav"
+				transpose="-32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="46080" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="93"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Othmer Hallway Door 5 [2022-06-17 182758].wav"
+				transpose="-33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="55296" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="94"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Power Junction Box 4 [2022-06-17 182806].wav"
+				transpose="-34">
+				<zone
+					startSamplePos="0"
+					endSamplePos="41472" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="95"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Power Junction Box 5 [2022-06-17 182807].wav"
+				transpose="-35">
+				<zone
+					startSamplePos="0"
+					endSamplePos="73728" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="96"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Screwdriver Drawer Hits 1 [2022-06-17 182808].wav"
+				transpose="-36">
+				<zone
+					startSamplePos="0"
+					endSamplePos="50688" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="97"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Screwdriver Drawer Hits 2 [2022-06-17 182809].wav"
+				transpose="-37">
+				<zone
+					startSamplePos="0"
+					endSamplePos="46080" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="98"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Screwdriver Drawer Hits 3 [2022-06-17 182812].wav"
+				transpose="-38">
+				<zone
+					startSamplePos="0"
+					endSamplePos="73728" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="99"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Screwdriver Drawer Hits 4 [2022-06-17 182813].wav"
+				transpose="-39">
+				<zone
+					startSamplePos="0"
+					endSamplePos="55296" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="100"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Screwdriver Drawer Hits 9 [2022-06-17 182823].wav"
+				transpose="-40">
+				<zone
+					startSamplePos="0"
+					endSamplePos="64512" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="101"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Tape Packaging Roll 1 [2022-06-17 182826].wav"
+				transpose="-41">
+				<zone
+					startSamplePos="0"
+					endSamplePos="13824" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="102"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Tape Packaging Roll 10 [2022-06-17 182836].wav"
+				transpose="-42">
+				<zone
+					startSamplePos="0"
+					endSamplePos="18432" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="103"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Tape Packaging Roll 11 [2022-06-17 182837].wav"
+				transpose="-43">
+				<zone
+					startSamplePos="0"
+					endSamplePos="41472" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="104"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Tape Packaging Roll 13 [2022-06-17 182839].wav"
+				transpose="-44">
+				<zone
+					startSamplePos="0"
+					endSamplePos="41472" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="105"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Tape Packaging Roll 16 [2022-06-17 182842].wav"
+				transpose="-45">
+				<zone
+					startSamplePos="0"
+					endSamplePos="78336" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="106"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Tape Packaging Roll 2 [2022-06-17 182826].wav"
+				transpose="-46">
+				<zone
+					startSamplePos="0"
+					endSamplePos="13824" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="107"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Tape Packaging Roll 3 [2022-06-17 182827].wav"
+				transpose="-47">
+				<zone
+					startSamplePos="0"
+					endSamplePos="18432" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="108"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Tape Packaging Roll 4 [2022-06-17 182828].wav"
+				transpose="-48">
+				<zone
+					startSamplePos="0"
+					endSamplePos="18432" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="109"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Tape Packaging Roll 5 [2022-06-17 182829].wav"
+				transpose="-49">
+				<zone
+					startSamplePos="0"
+					endSamplePos="18432" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="110"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Tape Packaging Roll 6 [2022-06-17 182830].wav"
+				transpose="-50">
+				<zone
+					startSamplePos="0"
+					endSamplePos="13824" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="111"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Tape Packaging Roll 8 [2022-06-17 182832].wav"
+				transpose="-51">
+				<zone
+					startSamplePos="0"
+					endSamplePos="46080" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="112"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Variable Frequency Drive Wind Tunnel 1 [2022-06-17 182900].wav"
+				transpose="-52">
+				<zone
+					startSamplePos="0"
+					endSamplePos="50688" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="113"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Variable Frequency Drive Wind Tunnel 2 [2022-06-17 182902].wav"
+				transpose="-53">
+				<zone
+					startSamplePos="0"
+					endSamplePos="50688" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="114"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Variable Frequency Drive Wind Tunnel 3 [2022-06-17 182904].wav"
+				transpose="-54">
+				<zone
+					startSamplePos="0"
+					endSamplePos="73728" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="115"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Variable Frequency Drive Wind Tunnel 6 [2022-06-17 182912].wav"
+				transpose="-55">
+				<zone
+					startSamplePos="0"
+					endSamplePos="36864" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="116"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Variable Frequency Drive Wind Tunnel 7 [2022-06-17 182913].wav"
+				transpose="-56">
+				<zone
+					startSamplePos="0"
+					endSamplePos="36864" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="117"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Wooden Dowel Scrapes and Power Resistor Hits 1 [2022-06-17 182935].wav"
+				transpose="-57">
+				<zone
+					startSamplePos="0"
+					endSamplePos="9216" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="118"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Wooden Dowel Scrapes and Power Resistor Hits 2 [2022-06-17 182936].wav"
+				transpose="-58">
+				<zone
+					startSamplePos="0"
+					endSamplePos="32256" />
+			</sampleRange>
+			<sampleRange
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/SEC sounds map/Wooden Dowel Scrapes and Power Resistor Hits 8 [2022-06-17 182946].wav"
+				transpose="-59">
+				<zone
+					startSamplePos="0"
+					endSamplePos="46080" />
+			</sampleRange>
+		</sampleRanges>
+	</osc1>
+	<osc2
+		type="square"
+		transpose="0"
+		cents="0"
+		retrigPhase="-1" />
+	<lfo1 type="triangle" syncType="0" syncLevel="0" />
+	<lfo2 type="triangle" />
+	<unison num="1" detune="8" spread="0" />
+	<delay
+		pingPong="1"
+		analog="0"
+		syncType="0"
+		syncLevel="7" />
+	<compressor
+		syncType="0"
+		syncLevel="6"
+		attack="327244"
+		release="936" />
+	<defaultParams
+		arpeggiatorGate="0x00000000"
+		portamento="0x80000000"
+		compressorShape="0xDC28F5B2"
+		oscAVolume="0x7FFFFFFF"
+		oscAPulseWidth="0x00000000"
+		oscAWavetablePosition="0x00000000"
+		oscBVolume="0x80000000"
+		oscBPulseWidth="0x00000000"
+		oscBWavetablePosition="0x00000000"
+		noiseVolume="0x80000000"
+		volume="0x4CCCCCA8"
+		pan="0x00000000"
+		waveFold="0x80000000"
+		lpfFrequency="0x7FFFFFFF"
+		lpfResonance="0x80000000"
+		lpfMorph="0x80000000"
+		hpfFrequency="0x80000000"
+		hpfResonance="0x80000000"
+		hpfMorph="0x80000000"
+		lfo1Rate="0x1999997E"
+		lfo2Rate="0x00000000"
+		modulator1Amount="0x80000000"
+		modulator1Feedback="0x80000000"
+		modulator2Amount="0x80000000"
+		modulator2Feedback="0x80000000"
+		carrier1Feedback="0x80000000"
+		carrier2Feedback="0x80000000"
+		modFXRate="0x00000000"
+		modFXDepth="0x00000000"
+		delayRate="0x00000000"
+		delayFeedback="0x80000000"
+		reverbAmount="0x80000000"
+		arpeggiatorRate="0x00000000"
+		stutterRate="0x00000000"
+		sampleRateReduction="0x80000000"
+		bitCrush="0x80000000"
+		modFXOffset="0x00000000"
+		modFXFeedback="0x00000000">
+		<envelope1
+			attack="0x80000000"
+			decay="0xE6666654"
+			sustain="0x7FFFFFFF"
+			release="0x80000000" />
+		<envelope2
+			attack="0xE6666654"
+			decay="0xE6666654"
+			sustain="0xFFFFFFE9"
+			release="0xE6666654" />
+		<patchCables>
+			<patchCable
+				source="velocity"
+				destination="volume"
+				amount="0x3FFFFFE8" />
+			<patchCable
+				source="aftertouch"
+				destination="volume"
+				amount="0x2A3D7094" />
+			<patchCable
+				source="y"
+				destination="lpfFrequency"
+				amount="0x19999990" />
+		</patchCables>
+		<equalizer
+			bass="0x00000000"
+			treble="0x00000000"
+			bassFrequency="0x00000000"
+			trebleFrequency="0x00000000" />
+	</defaultParams>
+	<arpeggiator
+		mode="off"
+		numOctaves="2"
+		syncType="0"
+		syncLevel="7" />
+	<modKnobs>
+		<modKnob controlsParam="pan" />
+		<modKnob controlsParam="volumePostFX" />
+		<modKnob controlsParam="lpfResonance" />
+		<modKnob controlsParam="lpfFrequency" />
+		<modKnob controlsParam="env1Release" />
+		<modKnob controlsParam="env1Attack" />
+		<modKnob controlsParam="delayFeedback" />
+		<modKnob controlsParam="delayRate" />
+		<modKnob controlsParam="reverbAmount" />
+		<modKnob controlsParam="volumePostReverbSend" patchAmountFromSource="compressor" />
+		<modKnob controlsParam="pitch" patchAmountFromSource="lfo1" />
+		<modKnob controlsParam="lfo1Rate" />
+		<modKnob controlsParam="portamento" />
+		<modKnob controlsParam="stutterRate" />
+		<modKnob controlsParam="bitcrushAmount" />
+		<modKnob controlsParam="sampleRateReduction" />
+	</modKnobs>
+</sound>

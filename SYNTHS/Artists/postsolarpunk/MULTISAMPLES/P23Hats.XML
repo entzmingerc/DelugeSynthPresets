@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sound
+	firmwareVersion="4.1.4-alpha"
+	earliestCompatibleFirmware="4.1.0-alpha"
+	polyphonic="poly"
+	voicePriority="1"
+	mode="subtractive"
+	lpfMode="24dB"
+	hpfMode="HPLadder"
+	modFXType="none"
+	filterRoute="H2L">
+	<osc1
+		type="sample"
+		loopMode="1"
+		reversed="0"
+		timeStretchEnable="0"
+		timeStretchAmount="0">
+		<sampleRanges>
+			<sampleRange
+				rangeTopNote="24"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/hat55 [2022-07-04 230750].wav"
+				transpose="37">
+				<zone
+					startSamplePos="0"
+					endSamplePos="78336" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="26"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 10 [2021-04-18 150354].wav"
+				transpose="34">
+				<zone
+					startSamplePos="0"
+					endSamplePos="239616" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="27"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 11 [2021-04-18 150359].wav"
+				transpose="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="119808" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="28"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 12 [2021-04-18 150403].wav"
+				transpose="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="235008" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="29"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 13 [2021-04-18 150408].wav"
+				transpose="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="129024" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="30"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 14 [2021-04-18 150413].wav"
+				transpose="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="119808" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="31"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 15 [2021-04-18 150417].wav"
+				transpose="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="133632" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="32"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 16 [2021-04-18 150421].wav"
+				transpose="28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="105984" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="33"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 17 [2021-04-18 150426].wav"
+				transpose="27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="271872" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="34"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 18 [2021-04-18 150432].wav"
+				transpose="26">
+				<zone
+					startSamplePos="0"
+					endSamplePos="193536" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="36"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 19 [2021-04-18 150437].wav"
+				transpose="25">
+				<zone
+					startSamplePos="0"
+					endSamplePos="221184" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="38"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 20 [2021-04-17 233036].wav"
+				transpose="23">
+				<zone
+					startSamplePos="0"
+					endSamplePos="13824" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="40"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 21 [2021-04-17 233043].wav"
+				transpose="21">
+				<zone
+					startSamplePos="0"
+					endSamplePos="13824" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="41"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 22 [2021-04-17 233058].wav"
+				transpose="19">
+				<zone
+					startSamplePos="0"
+					endSamplePos="18432" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="42"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 22 [2021-04-18 150450].wav"
+				transpose="18">
+				<zone
+					startSamplePos="0"
+					endSamplePos="230400" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="44"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 23 [2021-04-17 233105].wav"
+				transpose="17">
+				<zone
+					startSamplePos="0"
+					endSamplePos="23040" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="46"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 24 [2021-04-17 233111].wav"
+				transpose="15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="18432" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="48"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 25 [2021-04-17 233117].wav"
+				transpose="13">
+				<zone
+					startSamplePos="0"
+					endSamplePos="18432" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="50"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 26 [2021-04-17 233124].wav"
+				transpose="11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="23040" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="52"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 27 [2021-04-17 233131].wav"
+				transpose="9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="32256" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="53"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 28 [2021-04-17 233137].wav"
+				transpose="7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="36864" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="54"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 28 [2021-04-18 150520].wav"
+				transpose="6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="50688" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="55"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 29 [2021-04-17 233144].wav"
+				transpose="5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="9216" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="57"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 29 [2021-04-18 150525].wav"
+				transpose="4">
+				<zone
+					startSamplePos="0"
+					endSamplePos="59904" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="58"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 30 [2021-04-18 150529].wav"
+				transpose="2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="82944" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="59"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 31 [2021-04-18 150534].wav"
+				transpose="1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="165888" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="60"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 32 [2021-04-17 233207].wav">
+				<zone
+					startSamplePos="0"
+					endSamplePos="9216" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="61"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 32 [2021-04-18 150539].wav"
+				transpose="-1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="110592" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="62"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 33 [2021-04-17 233213].wav"
+				transpose="-2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="13824" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="63"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 33 [2021-04-18 150545].wav"
+				transpose="-3">
+				<zone
+					startSamplePos="0"
+					endSamplePos="115200" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="64"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 34 [2021-04-18 150549].wav"
+				transpose="-4">
+				<zone
+					startSamplePos="0"
+					endSamplePos="64512" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="65"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 35 [2021-04-18 150555].wav"
+				transpose="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="46080" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="66"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 36 [2021-04-18 150600].wav"
+				transpose="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="64512" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="67"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 37 [2021-04-18 150605].wav"
+				transpose="-7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="64512" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="68"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 38 [2021-04-18 150610].wav"
+				transpose="-8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="23040" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="70"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 39 [2021-04-18 150615].wav"
+				transpose="-9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="110592" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="71"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 40 [2021-04-18 150620].wav"
+				transpose="-11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="262656" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="72"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 42 [2021-04-17 233308].wav"
+				transpose="-12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="9216" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="73"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 44 [2021-04-17 233321].wav"
+				transpose="-13">
+				<zone
+					startSamplePos="0"
+					endSamplePos="9216" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="74"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 45 [2021-04-17 233328].wav"
+				transpose="-14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="18432" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="75"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 46 [2021-04-17 233337].wav"
+				transpose="-15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="13824" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="76"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 47 [2021-04-17 233342].wav"
+				transpose="-16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="13824" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="77"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 48 [2021-04-17 233349].wav"
+				transpose="-17">
+				<zone
+					startSamplePos="0"
+					endSamplePos="13824" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="79"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 49 [2021-04-17 233355].wav"
+				transpose="-18">
+				<zone
+					startSamplePos="0"
+					endSamplePos="9216" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="80"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 50 [2021-04-17 233400].wav"
+				transpose="-20">
+				<zone
+					startSamplePos="0"
+					endSamplePos="9216" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="81"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 51 [2021-04-17 233406].wav"
+				transpose="-21">
+				<zone
+					startSamplePos="0"
+					endSamplePos="9216" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="82"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 52 [2021-04-17 233412].wav"
+				transpose="-22">
+				<zone
+					startSamplePos="0"
+					endSamplePos="36864" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="83"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 53 [2021-04-17 233417].wav"
+				transpose="-23">
+				<zone
+					startSamplePos="0"
+					endSamplePos="13824" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="84"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 54 [2021-04-17 233423].wav"
+				transpose="-24">
+				<zone
+					startSamplePos="0"
+					endSamplePos="18432" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="85"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 55 [2021-04-17 233430].wav"
+				transpose="-25">
+				<zone
+					startSamplePos="0"
+					endSamplePos="23040" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="86"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 56 [2021-04-17 233438].wav"
+				transpose="-26">
+				<zone
+					startSamplePos="0"
+					endSamplePos="23040" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="87"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 57 [2021-04-17 233446].wav"
+				transpose="-27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="23040" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="88"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 58 [2021-04-17 233452].wav"
+				transpose="-28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="23040" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="90"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 59 [2021-04-17 233458].wav"
+				transpose="-29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="23040" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="91"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 60 [2021-04-17 233506].wav"
+				transpose="-31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="18432" />
+			</sampleRange>
+			<sampleRange
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 hats map/Slice 61 [2021-04-17 233512].wav"
+				transpose="-32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="27648" />
+			</sampleRange>
+		</sampleRanges>
+	</osc1>
+	<osc2
+		type="square"
+		transpose="0"
+		cents="0"
+		retrigPhase="-1" />
+	<lfo1 type="triangle" syncType="0" syncLevel="0" />
+	<lfo2 type="triangle" />
+	<unison num="1" detune="8" spread="0" />
+	<delay
+		pingPong="1"
+		analog="0"
+		syncType="0"
+		syncLevel="7" />
+	<compressor
+		syncType="0"
+		syncLevel="6"
+		attack="327244"
+		release="936" />
+	<defaultParams
+		arpeggiatorGate="0x00000000"
+		portamento="0x80000000"
+		compressorShape="0xDC28F5B2"
+		oscAVolume="0x7FFFFFFF"
+		oscAPulseWidth="0x00000000"
+		oscAWavetablePosition="0x00000000"
+		oscBVolume="0x80000000"
+		oscBPulseWidth="0x00000000"
+		oscBWavetablePosition="0x00000000"
+		noiseVolume="0x80000000"
+		volume="0x4CCCCCA8"
+		pan="0x00000000"
+		waveFold="0x80000000"
+		lpfFrequency="0x7FFFFFFF"
+		lpfResonance="0x80000000"
+		lpfMorph="0x80000000"
+		hpfFrequency="0x80000000"
+		hpfResonance="0x80000000"
+		hpfMorph="0x80000000"
+		lfo1Rate="0x1999997E"
+		lfo2Rate="0x00000000"
+		modulator1Amount="0x80000000"
+		modulator1Feedback="0x80000000"
+		modulator2Amount="0x80000000"
+		modulator2Feedback="0x80000000"
+		carrier1Feedback="0x80000000"
+		carrier2Feedback="0x80000000"
+		modFXRate="0x00000000"
+		modFXDepth="0x00000000"
+		delayRate="0x00000000"
+		delayFeedback="0x80000000"
+		reverbAmount="0x80000000"
+		arpeggiatorRate="0x00000000"
+		stutterRate="0x00000000"
+		sampleRateReduction="0x80000000"
+		bitCrush="0x80000000"
+		modFXOffset="0x00000000"
+		modFXFeedback="0x00000000">
+		<envelope1
+			attack="0x80000000"
+			decay="0xE6666654"
+			sustain="0x7FFFFFFF"
+			release="0x80000000" />
+		<envelope2
+			attack="0xE6666654"
+			decay="0xE6666654"
+			sustain="0xFFFFFFE9"
+			release="0xE6666654" />
+		<patchCables>
+			<patchCable
+				source="velocity"
+				destination="volume"
+				amount="0x3FFFFFE8" />
+			<patchCable
+				source="aftertouch"
+				destination="volume"
+				amount="0x2A3D7094" />
+			<patchCable
+				source="y"
+				destination="lpfFrequency"
+				amount="0x19999990" />
+		</patchCables>
+		<equalizer
+			bass="0x00000000"
+			treble="0x00000000"
+			bassFrequency="0x00000000"
+			trebleFrequency="0x00000000" />
+	</defaultParams>
+	<arpeggiator
+		mode="off"
+		numOctaves="2"
+		syncType="0"
+		syncLevel="7" />
+	<modKnobs>
+		<modKnob controlsParam="pan" />
+		<modKnob controlsParam="volumePostFX" />
+		<modKnob controlsParam="lpfResonance" />
+		<modKnob controlsParam="lpfFrequency" />
+		<modKnob controlsParam="env1Release" />
+		<modKnob controlsParam="env1Attack" />
+		<modKnob controlsParam="delayFeedback" />
+		<modKnob controlsParam="delayRate" />
+		<modKnob controlsParam="reverbAmount" />
+		<modKnob controlsParam="volumePostReverbSend" patchAmountFromSource="compressor" />
+		<modKnob controlsParam="pitch" patchAmountFromSource="lfo1" />
+		<modKnob controlsParam="lfo1Rate" />
+		<modKnob controlsParam="portamento" />
+		<modKnob controlsParam="stutterRate" />
+		<modKnob controlsParam="bitcrushAmount" />
+		<modKnob controlsParam="sampleRateReduction" />
+	</modKnobs>
+</sound>

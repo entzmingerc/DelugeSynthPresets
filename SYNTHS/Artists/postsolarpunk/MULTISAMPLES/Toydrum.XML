@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sound
+	firmwareVersion="4.1.4-alpha"
+	earliestCompatibleFirmware="4.1.0-alpha"
+	polyphonic="poly"
+	voicePriority="1"
+	mode="subtractive"
+	lpfMode="24dB"
+	hpfMode="HPLadder"
+	modFXType="none"
+	filterRoute="H2L">
+	<osc1
+		type="sample"
+		loopMode="1"
+		reversed="0"
+		timeStretchEnable="0"
+		timeStretchAmount="0">
+		<sampleRanges>
+			<sampleRange
+				rangeTopNote="3"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/center10.wav"
+				transpose="58">
+				<zone
+					startSamplePos="0"
+					endSamplePos="23040" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="5"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/center11.wav"
+				transpose="56">
+				<zone
+					startSamplePos="0"
+					endSamplePos="36864" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="7"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/center12.wav"
+				transpose="54">
+				<zone
+					startSamplePos="0"
+					endSamplePos="36864" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="9"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/center13.wav"
+				transpose="52">
+				<zone
+					startSamplePos="0"
+					endSamplePos="50688" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="19"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/center14.wav"
+				transpose="50">
+				<zone
+					startSamplePos="0"
+					endSamplePos="55296" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="29"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/cymbal1.wav"
+				transpose="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="69120" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="31"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/cymbal2.wav"
+				transpose="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="55296" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="33"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/cymbal3.wav"
+				transpose="28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="64512" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="35"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/cymbal4.wav"
+				transpose="26">
+				<zone
+					startSamplePos="0"
+					endSamplePos="69120" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="37"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/cymbal5.wav"
+				transpose="24">
+				<zone
+					startSamplePos="0"
+					endSamplePos="82944" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="39"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/cymbal6.wav"
+				transpose="22">
+				<zone
+					startSamplePos="0"
+					endSamplePos="46080" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="41"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/cymbal7.wav"
+				transpose="20">
+				<zone
+					startSamplePos="0"
+					endSamplePos="41472" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="43"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/cymbal8.wav"
+				transpose="18">
+				<zone
+					startSamplePos="0"
+					endSamplePos="46080" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="45"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/left1.wav"
+				transpose="16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="55296" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="47"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/left10.wav"
+				transpose="14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="59904" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="49"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/left11.wav"
+				transpose="12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="41472" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="51"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/left2.wav"
+				transpose="10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="41472" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="53"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/left3.wav"
+				transpose="8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="64512" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="55"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/left4.wav"
+				transpose="6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="69120" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="57"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/left5.wav"
+				transpose="4">
+				<zone
+					startSamplePos="0"
+					endSamplePos="50688" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="59"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/left6.wav"
+				transpose="2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="78336" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="61"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/left7.wav">
+				<zone
+					startSamplePos="0"
+					endSamplePos="69120" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="63"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/left8.wav"
+				transpose="-2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="27648" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="65"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/left9.wav"
+				transpose="-4">
+				<zone
+					startSamplePos="0"
+					endSamplePos="23040" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="67"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/right1.wav"
+				transpose="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="59904" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="69"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/right2.wav"
+				transpose="-8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="41472" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="71"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/right3.wav"
+				transpose="-10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="41472" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="73"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/right4.wav"
+				transpose="-12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="50688" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="75"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/right5.wav"
+				transpose="-14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="9216" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="77"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/right6.wav"
+				transpose="-16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="18432" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="79"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/right7.wav"
+				transpose="-18">
+				<zone
+					startSamplePos="0"
+					endSamplePos="41472" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="81"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/right8.wav"
+				transpose="-20">
+				<zone
+					startSamplePos="0"
+					endSamplePos="13824" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="83"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/rim1.wav"
+				transpose="-22">
+				<zone
+					startSamplePos="0"
+					endSamplePos="36864" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="85"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/rim2.wav"
+				transpose="-24">
+				<zone
+					startSamplePos="0"
+					endSamplePos="119808" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="87"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/rim3.wav"
+				transpose="-26">
+				<zone
+					startSamplePos="0"
+					endSamplePos="82944" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="89"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/rim4.wav"
+				transpose="-28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="78336" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="91"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/rim5.wav"
+				transpose="-30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="50688" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="93"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/rim6.wav"
+				transpose="-32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="69120" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="95"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/rim7.wav"
+				transpose="-34">
+				<zone
+					startSamplePos="0"
+					endSamplePos="82944" />
+			</sampleRange>
+			<sampleRange
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/toy drum map/rim8.wav"
+				transpose="-36">
+				<zone
+					startSamplePos="0"
+					endSamplePos="23040" />
+			</sampleRange>
+		</sampleRanges>
+	</osc1>
+	<osc2
+		type="square"
+		transpose="0"
+		cents="0"
+		retrigPhase="-1" />
+	<lfo1 type="triangle" syncType="0" syncLevel="0" />
+	<lfo2 type="triangle" />
+	<unison num="1" detune="8" spread="0" />
+	<delay
+		pingPong="1"
+		analog="0"
+		syncType="0"
+		syncLevel="7" />
+	<compressor
+		syncType="0"
+		syncLevel="6"
+		attack="327244"
+		release="936" />
+	<defaultParams
+		arpeggiatorGate="0x00000000"
+		portamento="0x80000000"
+		compressorShape="0xDC28F5B2"
+		oscAVolume="0x7FFFFFFF"
+		oscAPulseWidth="0x00000000"
+		oscAWavetablePosition="0x00000000"
+		oscBVolume="0x80000000"
+		oscBPulseWidth="0x00000000"
+		oscBWavetablePosition="0x00000000"
+		noiseVolume="0x80000000"
+		volume="0x4CCCCCA8"
+		pan="0x00000000"
+		waveFold="0x80000000"
+		lpfFrequency="0x7FFFFFFF"
+		lpfResonance="0x80000000"
+		lpfMorph="0x80000000"
+		hpfFrequency="0x80000000"
+		hpfResonance="0x80000000"
+		hpfMorph="0x80000000"
+		lfo1Rate="0x1999997E"
+		lfo2Rate="0x00000000"
+		modulator1Amount="0x80000000"
+		modulator1Feedback="0x80000000"
+		modulator2Amount="0x80000000"
+		modulator2Feedback="0x80000000"
+		carrier1Feedback="0x80000000"
+		carrier2Feedback="0x80000000"
+		modFXRate="0x00000000"
+		modFXDepth="0x00000000"
+		delayRate="0x00000000"
+		delayFeedback="0x80000000"
+		reverbAmount="0x80000000"
+		arpeggiatorRate="0x00000000"
+		stutterRate="0x00000000"
+		sampleRateReduction="0x80000000"
+		bitCrush="0x80000000"
+		modFXOffset="0x00000000"
+		modFXFeedback="0x00000000">
+		<envelope1
+			attack="0x80000000"
+			decay="0xE6666654"
+			sustain="0x7FFFFFFF"
+			release="0x80000000" />
+		<envelope2
+			attack="0xE6666654"
+			decay="0xE6666654"
+			sustain="0xFFFFFFE9"
+			release="0xE6666654" />
+		<patchCables>
+			<patchCable
+				source="velocity"
+				destination="volume"
+				amount="0x3FFFFFE8" />
+			<patchCable
+				source="aftertouch"
+				destination="volume"
+				amount="0x2A3D7094" />
+			<patchCable
+				source="y"
+				destination="lpfFrequency"
+				amount="0x19999990" />
+		</patchCables>
+		<equalizer
+			bass="0x00000000"
+			treble="0x00000000"
+			bassFrequency="0x00000000"
+			trebleFrequency="0x00000000" />
+	</defaultParams>
+	<arpeggiator
+		mode="off"
+		numOctaves="2"
+		syncType="0"
+		syncLevel="7" />
+	<modKnobs>
+		<modKnob controlsParam="pan" />
+		<modKnob controlsParam="volumePostFX" />
+		<modKnob controlsParam="lpfResonance" />
+		<modKnob controlsParam="lpfFrequency" />
+		<modKnob controlsParam="env1Release" />
+		<modKnob controlsParam="env1Attack" />
+		<modKnob controlsParam="delayFeedback" />
+		<modKnob controlsParam="delayRate" />
+		<modKnob controlsParam="reverbAmount" />
+		<modKnob controlsParam="volumePostReverbSend" patchAmountFromSource="compressor" />
+		<modKnob controlsParam="pitch" patchAmountFromSource="lfo1" />
+		<modKnob controlsParam="lfo1Rate" />
+		<modKnob controlsParam="portamento" />
+		<modKnob controlsParam="stutterRate" />
+		<modKnob controlsParam="bitcrushAmount" />
+		<modKnob controlsParam="sampleRateReduction" />
+	</modKnobs>
+</sound>

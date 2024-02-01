@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sound
+	firmwareVersion="4.1.4-alpha"
+	earliestCompatibleFirmware="4.1.0-alpha"
+	polyphonic="poly"
+	voicePriority="1"
+	mode="subtractive"
+	lpfMode="24dB"
+	hpfMode="HPLadder"
+	modFXType="none"
+	filterRoute="H2L">
+	<osc1
+		type="sample"
+		loopMode="0"
+		reversed="0"
+		timeStretchEnable="0"
+		timeStretchAmount="0">
+		<sampleRanges>
+			<sampleRange
+				rangeTopNote="19"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/b26.wav"
+				transpose="42">
+				<zone
+					startSamplePos="0"
+					endSamplePos="82944" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="22"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/b29.wav"
+				transpose="39">
+				<zone
+					startSamplePos="0"
+					endSamplePos="59904" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="23"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/b30.wav"
+				transpose="37">
+				<zone
+					startSamplePos="0"
+					endSamplePos="82944" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="24"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/b31.wav"
+				transpose="36">
+				<zone
+					startSamplePos="0"
+					endSamplePos="46080" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="25"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/b32.wav"
+				transpose="35">
+				<zone
+					startSamplePos="0"
+					endSamplePos="64512" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="26"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/b33.wav"
+				transpose="34">
+				<zone
+					startSamplePos="0"
+					endSamplePos="55296" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="27"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/b34.wav"
+				transpose="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="59904" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="45"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/b35.wav"
+				transpose="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="69120" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="62"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n1.wav"
+				transpose="-2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="32256" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="63"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n10.wav"
+				transpose="-3">
+				<zone
+					startSamplePos="0"
+					endSamplePos="110592" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="64"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n11.wav"
+				transpose="-4">
+				<zone
+					startSamplePos="0"
+					endSamplePos="55296" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="65"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n12.wav"
+				transpose="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="350208" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="66"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n13.wav"
+				transpose="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="433152" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="67"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n14.wav"
+				transpose="-7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="340992" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="68"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n15.wav"
+				transpose="-8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="488448" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="69"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n16.wav"
+				transpose="-9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="152064" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="70"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n17.wav"
+				transpose="-10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="354816" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="71"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n18.wav"
+				transpose="-11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="433152" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="73"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n19.wav"
+				transpose="-12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="354816" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="74"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n20.wav"
+				transpose="-14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="258048" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="75"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n21.wav"
+				transpose="-15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="142848" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="76"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n22.wav"
+				transpose="-16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="221184" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="77"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n23.wav"
+				transpose="-17">
+				<zone
+					startSamplePos="0"
+					endSamplePos="313344" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="78"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n24.wav"
+				transpose="-18">
+				<zone
+					startSamplePos="0"
+					endSamplePos="64512" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="79"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n25.wav"
+				transpose="-19">
+				<zone
+					startSamplePos="0"
+					endSamplePos="64512" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="80"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n26.wav"
+				transpose="-20">
+				<zone
+					startSamplePos="0"
+					endSamplePos="92160" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="81"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n27.wav"
+				transpose="-21">
+				<zone
+					startSamplePos="0"
+					endSamplePos="92160" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="82"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n28.wav"
+				transpose="-22">
+				<zone
+					startSamplePos="0"
+					endSamplePos="202752" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="84"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n29.wav"
+				transpose="-23">
+				<zone
+					startSamplePos="0"
+					endSamplePos="92160" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="85"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n30.wav"
+				transpose="-25">
+				<zone
+					startSamplePos="0"
+					endSamplePos="55296" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="86"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n31.wav"
+				transpose="-26">
+				<zone
+					startSamplePos="0"
+					endSamplePos="9216" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="87"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n32.wav"
+				transpose="-27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="73728" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="88"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n33.wav"
+				transpose="-28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="50688" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="89"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n34.wav"
+				transpose="-29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="87552" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="90"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n35.wav"
+				transpose="-30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="92160" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="91"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n36.wav"
+				transpose="-31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="92160" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="92"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n37.wav"
+				transpose="-32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="119808" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="93"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n38.wav"
+				transpose="-33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="55296" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="95"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n39.wav"
+				transpose="-34">
+				<zone
+					startSamplePos="0"
+					endSamplePos="41472" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="96"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n40.wav"
+				transpose="-36">
+				<zone
+					startSamplePos="0"
+					endSamplePos="27648" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="97"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n41.wav"
+				transpose="-37">
+				<zone
+					startSamplePos="0"
+					endSamplePos="18432" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="98"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n42.wav"
+				transpose="-38">
+				<zone
+					startSamplePos="0"
+					endSamplePos="55296" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="99"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n43.wav"
+				transpose="-39">
+				<zone
+					startSamplePos="0"
+					endSamplePos="64512" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="100"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n44.wav"
+				transpose="-40">
+				<zone
+					startSamplePos="0"
+					endSamplePos="69120" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="101"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n45.wav"
+				transpose="-41">
+				<zone
+					startSamplePos="0"
+					endSamplePos="59904" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="102"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n46.wav"
+				transpose="-42">
+				<zone
+					startSamplePos="0"
+					endSamplePos="129024" />
+			</sampleRange>
+			<sampleRange
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 weird map/n47.wav"
+				transpose="-43">
+				<zone
+					startSamplePos="0"
+					endSamplePos="138240" />
+			</sampleRange>
+		</sampleRanges>
+	</osc1>
+	<osc2
+		type="square"
+		transpose="0"
+		cents="0"
+		retrigPhase="-1" />
+	<lfo1 type="triangle" syncType="0" syncLevel="0" />
+	<lfo2 type="triangle" />
+	<unison num="1" detune="8" spread="0" />
+	<delay
+		pingPong="1"
+		analog="0"
+		syncType="0"
+		syncLevel="7" />
+	<compressor
+		syncType="0"
+		syncLevel="6"
+		attack="327244"
+		release="936" />
+	<defaultParams
+		arpeggiatorGate="0x00000000"
+		portamento="0x80000000"
+		compressorShape="0xDC28F5B2"
+		oscAVolume="0x7FFFFFFF"
+		oscAPulseWidth="0x00000000"
+		oscAWavetablePosition="0x00000000"
+		oscBVolume="0x80000000"
+		oscBPulseWidth="0x00000000"
+		oscBWavetablePosition="0x00000000"
+		noiseVolume="0x80000000"
+		volume="0x4CCCCCA8"
+		pan="0x00000000"
+		waveFold="0x80000000"
+		lpfFrequency="0x7FFFFFFF"
+		lpfResonance="0x80000000"
+		lpfMorph="0x80000000"
+		hpfFrequency="0x80000000"
+		hpfResonance="0x80000000"
+		hpfMorph="0x80000000"
+		lfo1Rate="0x1999997E"
+		lfo2Rate="0x00000000"
+		modulator1Amount="0x80000000"
+		modulator1Feedback="0x80000000"
+		modulator2Amount="0x80000000"
+		modulator2Feedback="0x80000000"
+		carrier1Feedback="0x80000000"
+		carrier2Feedback="0x80000000"
+		modFXRate="0x00000000"
+		modFXDepth="0x00000000"
+		delayRate="0x00000000"
+		delayFeedback="0x80000000"
+		reverbAmount="0x80000000"
+		arpeggiatorRate="0x00000000"
+		stutterRate="0x00000000"
+		sampleRateReduction="0x80000000"
+		bitCrush="0x80000000"
+		modFXOffset="0x00000000"
+		modFXFeedback="0x00000000">
+		<envelope1
+			attack="0x80000000"
+			decay="0xE6666654"
+			sustain="0x7FFFFFFF"
+			release="0x80000000" />
+		<envelope2
+			attack="0xE6666654"
+			decay="0xE6666654"
+			sustain="0xFFFFFFE9"
+			release="0xE6666654" />
+		<patchCables>
+			<patchCable
+				source="velocity"
+				destination="volume"
+				amount="0x3FFFFFE8" />
+			<patchCable
+				source="aftertouch"
+				destination="volume"
+				amount="0x2A3D7094" />
+			<patchCable
+				source="y"
+				destination="lpfFrequency"
+				amount="0x19999990" />
+		</patchCables>
+		<equalizer
+			bass="0x00000000"
+			treble="0x00000000"
+			bassFrequency="0x00000000"
+			trebleFrequency="0x00000000" />
+	</defaultParams>
+	<arpeggiator
+		mode="off"
+		numOctaves="2"
+		syncType="0"
+		syncLevel="7" />
+	<modKnobs>
+		<modKnob controlsParam="pan" />
+		<modKnob controlsParam="volumePostFX" />
+		<modKnob controlsParam="lpfResonance" />
+		<modKnob controlsParam="lpfFrequency" />
+		<modKnob controlsParam="env1Release" />
+		<modKnob controlsParam="env1Attack" />
+		<modKnob controlsParam="delayFeedback" />
+		<modKnob controlsParam="delayRate" />
+		<modKnob controlsParam="reverbAmount" />
+		<modKnob controlsParam="volumePostReverbSend" patchAmountFromSource="compressor" />
+		<modKnob controlsParam="pitch" patchAmountFromSource="lfo1" />
+		<modKnob controlsParam="lfo1Rate" />
+		<modKnob controlsParam="portamento" />
+		<modKnob controlsParam="stutterRate" />
+		<modKnob controlsParam="bitcrushAmount" />
+		<modKnob controlsParam="sampleRateReduction" />
+	</modKnobs>
+</sound>

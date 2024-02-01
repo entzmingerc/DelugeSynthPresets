@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sound
+	firmwareVersion="4.1.4-alpha"
+	earliestCompatibleFirmware="4.1.0-alpha"
+	polyphonic="poly"
+	voicePriority="1"
+	mode="subtractive"
+	lpfMode="24dB"
+	hpfMode="HPLadder"
+	modFXType="none"
+	filterRoute="H2L">
+	<osc1
+		type="sample"
+		loopMode="0"
+		reversed="0"
+		timeStretchEnable="0"
+		timeStretchAmount="0">
+		<sampleRanges>
+			<sampleRange
+				rangeTopNote="1"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 129 [2022-07-05 164814].wav"
+				transpose="59">
+				<zone
+					startSamplePos="0"
+					endSamplePos="82944" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="2"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 130 [2022-07-05 164815].wav"
+				transpose="58">
+				<zone
+					startSamplePos="0"
+					endSamplePos="82944" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="3"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 131 [2022-07-05 164816].wav"
+				transpose="57">
+				<zone
+					startSamplePos="0"
+					endSamplePos="82944" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="4"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 132 [2022-07-05 164820].wav"
+				transpose="56">
+				<zone
+					startSamplePos="0"
+					endSamplePos="87552" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="5"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 133 [2022-07-05 164820].wav"
+				transpose="55">
+				<zone
+					startSamplePos="0"
+					endSamplePos="82944" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="6"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 134 [2022-07-05 164821].wav"
+				transpose="54">
+				<zone
+					startSamplePos="0"
+					endSamplePos="87552" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="7"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 135 [2022-07-05 164822].wav"
+				transpose="53">
+				<zone
+					startSamplePos="0"
+					endSamplePos="82944" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="8"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 136 [2022-07-05 164822].wav"
+				transpose="52">
+				<zone
+					startSamplePos="0"
+					endSamplePos="82944" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="9"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 137 [2022-07-05 164823].wav"
+				transpose="51">
+				<zone
+					startSamplePos="0"
+					endSamplePos="82944" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="10"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 138 [2022-07-05 164824].wav"
+				transpose="50">
+				<zone
+					startSamplePos="0"
+					endSamplePos="82944" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="11"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 139 [2022-07-05 164824].wav"
+				transpose="49">
+				<zone
+					startSamplePos="0"
+					endSamplePos="87552" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="12"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 140 [2022-07-05 164825].wav"
+				transpose="48">
+				<zone
+					startSamplePos="0"
+					endSamplePos="87552" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="13"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 141 [2022-07-05 164830].wav"
+				transpose="47">
+				<zone
+					startSamplePos="0"
+					endSamplePos="73728" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="14"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 142 [2022-07-05 164831].wav"
+				transpose="46">
+				<zone
+					startSamplePos="0"
+					endSamplePos="78336" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="15"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 143 [2022-07-05 164832].wav"
+				transpose="45">
+				<zone
+					startSamplePos="0"
+					endSamplePos="82944" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="16"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 144 [2022-07-05 164833].wav"
+				transpose="44">
+				<zone
+					startSamplePos="0"
+					endSamplePos="82944" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="17"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 145 [2022-07-05 164834].wav"
+				transpose="43">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="18"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 146 [2022-07-05 164834].wav"
+				transpose="42">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="19"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 147 [2022-07-05 164835].wav"
+				transpose="41">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="20"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 148 [2022-07-05 164836].wav"
+				transpose="40">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="21"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 149 [2022-07-05 164837].wav"
+				transpose="39">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="22"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 150 [2022-07-05 164843].wav"
+				transpose="38">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="23"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 151 [2022-07-05 164844].wav"
+				transpose="37">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="24"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 152 [2022-07-05 164845].wav"
+				transpose="36">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="25"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 153 [2022-07-05 164845].wav"
+				transpose="35">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="26"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 154 [2022-07-05 164846].wav"
+				transpose="34">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="27"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 155 [2022-07-05 164847].wav"
+				transpose="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="28"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 156 [2022-07-05 164847].wav"
+				transpose="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="29"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 157 [2022-07-05 164848].wav"
+				transpose="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="30"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 158 [2022-07-05 164853].wav"
+				transpose="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="31"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 159 [2022-07-05 164854].wav"
+				transpose="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="32"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 160 [2022-07-05 164855].wav"
+				transpose="28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="33"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 161 [2022-07-05 164855].wav"
+				transpose="27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="34"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 162 [2022-07-05 164856].wav"
+				transpose="26">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="35"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 163 [2022-07-05 164856].wav"
+				transpose="25">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="36"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 164 [2022-07-05 164857].wav"
+				transpose="24">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="37"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 165 [2022-07-05 164858].wav"
+				transpose="23">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="38"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 166 [2022-07-05 164902].wav"
+				transpose="22">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="39"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 167 [2022-07-05 164903].wav"
+				transpose="21">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="40"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 168 [2022-07-05 164904].wav"
+				transpose="20">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="41"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 169 [2022-07-05 164905].wav"
+				transpose="19">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="42"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 170 [2022-07-05 164906].wav"
+				transpose="18">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="43"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 171 [2022-07-05 164906].wav"
+				transpose="17">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="44"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 172 [2022-07-05 164907].wav"
+				transpose="16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="45"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 173 [2022-07-05 164908].wav"
+				transpose="15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="46"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 174 [2022-07-05 164908].wav"
+				transpose="14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="47"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 175 [2022-07-05 164912].wav"
+				transpose="13">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="48"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 176 [2022-07-05 164913].wav"
+				transpose="12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="49"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 177 [2022-07-05 164913].wav"
+				transpose="11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="50"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 178 [2022-07-05 164914].wav"
+				transpose="10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="51"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 179 [2022-07-05 164915].wav"
+				transpose="9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="52"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 180 [2022-07-05 164916].wav"
+				transpose="8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="53"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 181 [2022-07-05 164916].wav"
+				transpose="7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="92160" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="54"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 182 [2022-07-05 164917].wav"
+				transpose="6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="55"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 183 [2022-07-05 164917].wav"
+				transpose="5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="56"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 184 [2022-07-05 164918].wav"
+				transpose="4">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="57"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 185 [2022-07-05 164922].wav"
+				transpose="3">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="58"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 186 [2022-07-05 164923].wav"
+				transpose="2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="59"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 187 [2022-07-05 164923].wav"
+				transpose="1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="60"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 188 [2022-07-05 164924].wav">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="61"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 189 [2022-07-05 164924].wav"
+				transpose="-1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="62"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 190 [2022-07-05 164925].wav"
+				transpose="-2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="63"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 191 [2022-07-05 164926].wav"
+				transpose="-3">
+				<zone
+					startSamplePos="0"
+					endSamplePos="96768" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="64"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 192 [2022-07-05 164926].wav"
+				transpose="-4">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="65"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 193 [2022-07-05 164927].wav"
+				transpose="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="78336" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="66"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 194 [2022-07-05 164927].wav"
+				transpose="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="32256" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="67"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 195 [2022-07-05 164936].wav"
+				transpose="-7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="32256" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="68"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 196 [2022-07-05 164937].wav"
+				transpose="-8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="27648" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="69"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 197 [2022-07-05 164938].wav"
+				transpose="-9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="32256" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="70"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 198 [2022-07-05 164939].wav"
+				transpose="-10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="32256" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="71"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 199 [2022-07-05 164939].wav"
+				transpose="-11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="27648" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="72"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 200 [2022-07-05 164940].wav"
+				transpose="-12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="92160" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="73"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 201 [2022-07-05 164941].wav"
+				transpose="-13">
+				<zone
+					startSamplePos="0"
+					endSamplePos="32256" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="74"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 202 [2022-07-05 164942].wav"
+				transpose="-14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="32256" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="75"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 203 [2022-07-05 164942].wav"
+				transpose="-15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="87552" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="76"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 204 [2022-07-05 164943].wav"
+				transpose="-16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="32256" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="77"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 205 [2022-07-05 164944].wav"
+				transpose="-17">
+				<zone
+					startSamplePos="0"
+					endSamplePos="69120" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="78"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 206 [2022-07-05 164945].wav"
+				transpose="-18">
+				<zone
+					startSamplePos="0"
+					endSamplePos="50688" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="79"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 207 [2022-07-05 164945].wav"
+				transpose="-19">
+				<zone
+					startSamplePos="0"
+					endSamplePos="69120" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="80"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 229 [2022-07-05 165004].wav"
+				transpose="-20">
+				<zone
+					startSamplePos="0"
+					endSamplePos="55296" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="81"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 230 [2022-07-05 165009].wav"
+				transpose="-21">
+				<zone
+					startSamplePos="0"
+					endSamplePos="82944" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="82"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 231 [2022-07-05 165010].wav"
+				transpose="-22">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="83"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 232 [2022-07-05 165010].wav"
+				transpose="-23">
+				<zone
+					startSamplePos="0"
+					endSamplePos="92160" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="84"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 233 [2022-07-05 165011].wav"
+				transpose="-24">
+				<zone
+					startSamplePos="0"
+					endSamplePos="46080" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="85"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 234 [2022-07-05 165012].wav"
+				transpose="-25">
+				<zone
+					startSamplePos="0"
+					endSamplePos="101376" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="86"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 235 [2022-07-05 165012].wav"
+				transpose="-26">
+				<zone
+					startSamplePos="0"
+					endSamplePos="115200" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="87"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 236 [2022-07-05 165013].wav"
+				transpose="-27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="78336" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="88"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 237 [2022-07-05 165013].wav"
+				transpose="-28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="142848" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="89"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 238 [2022-07-05 165014].wav"
+				transpose="-29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="165888" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="90"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 239 [2022-07-05 165017].wav"
+				transpose="-30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="188928" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="91"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 240 [2022-07-05 165017].wav"
+				transpose="-31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="147456" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="92"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 241 [2022-07-05 165018].wav"
+				transpose="-32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="152064" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="93"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 242 [2022-07-05 165019].wav"
+				transpose="-33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="110592" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="94"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 243 [2022-07-05 165019].wav"
+				transpose="-34">
+				<zone
+					startSamplePos="0"
+					endSamplePos="179712" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="95"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 244 [2022-07-05 165020].wav"
+				transpose="-35">
+				<zone
+					startSamplePos="0"
+					endSamplePos="142848" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="96"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 245 [2022-07-05 165024].wav"
+				transpose="-36">
+				<zone
+					startSamplePos="0"
+					endSamplePos="170496" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="97"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 246 [2022-07-05 165025].wav"
+				transpose="-37">
+				<zone
+					startSamplePos="0"
+					endSamplePos="124416" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="98"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 247 [2022-07-05 165026].wav"
+				transpose="-38">
+				<zone
+					startSamplePos="0"
+					endSamplePos="133632" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="99"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 248 [2022-07-05 165027].wav"
+				transpose="-39">
+				<zone
+					startSamplePos="0"
+					endSamplePos="152064" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="100"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 249 [2022-07-05 165027].wav"
+				transpose="-40">
+				<zone
+					startSamplePos="0"
+					endSamplePos="119808" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="101"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 250 [2022-07-05 165028].wav"
+				transpose="-41">
+				<zone
+					startSamplePos="0"
+					endSamplePos="129024" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="102"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 251 [2022-07-05 165029].wav"
+				transpose="-42">
+				<zone
+					startSamplePos="0"
+					endSamplePos="161280" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="103"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 252 [2022-07-05 165030].wav"
+				transpose="-43">
+				<zone
+					startSamplePos="0"
+					endSamplePos="235008" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="104"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 253 [2022-07-05 165034].wav"
+				transpose="-44">
+				<zone
+					startSamplePos="0"
+					endSamplePos="165888" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="105"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 254 [2022-07-05 165034].wav"
+				transpose="-45">
+				<zone
+					startSamplePos="0"
+					endSamplePos="156672" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="106"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 255 [2022-07-05 165035].wav"
+				transpose="-46">
+				<zone
+					startSamplePos="0"
+					endSamplePos="188928" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="107"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 256 [2022-07-05 165036].wav"
+				transpose="-47">
+				<zone
+					startSamplePos="0"
+					endSamplePos="207360" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="108"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 257 [2022-07-05 165036].wav"
+				transpose="-48">
+				<zone
+					startSamplePos="0"
+					endSamplePos="198144" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="109"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 258 [2022-07-05 165037].wav"
+				transpose="-49">
+				<zone
+					startSamplePos="0"
+					endSamplePos="110592" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="110"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 259 [2022-07-05 165040].wav"
+				transpose="-50">
+				<zone
+					startSamplePos="0"
+					endSamplePos="147456" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="111"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 260 [2022-07-05 165041].wav"
+				transpose="-51">
+				<zone
+					startSamplePos="0"
+					endSamplePos="133632" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="112"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 261 [2022-07-05 165042].wav"
+				transpose="-52">
+				<zone
+					startSamplePos="0"
+					endSamplePos="152064" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="113"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 262 [2022-07-05 165042].wav"
+				transpose="-53">
+				<zone
+					startSamplePos="0"
+					endSamplePos="147456" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="115"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 263 [2022-07-05 165043].wav"
+				transpose="-54">
+				<zone
+					startSamplePos="0"
+					endSamplePos="161280" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="116"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 264 [2022-07-05 165044].wav"
+				transpose="-56">
+				<zone
+					startSamplePos="0"
+					endSamplePos="152064" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="117"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 265 [2022-07-05 165050].wav"
+				transpose="-57">
+				<zone
+					startSamplePos="0"
+					endSamplePos="142848" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="118"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 266 [2022-07-05 165051].wav"
+				transpose="-58">
+				<zone
+					startSamplePos="0"
+					endSamplePos="156672" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="119"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 267 [2022-07-05 165052].wav"
+				transpose="-59">
+				<zone
+					startSamplePos="0"
+					endSamplePos="152064" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="120"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 268 [2022-07-05 165055].wav"
+				transpose="-60">
+				<zone
+					startSamplePos="0"
+					endSamplePos="147456" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="121"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 269 [2022-07-05 165056].wav"
+				transpose="-61">
+				<zone
+					startSamplePos="0"
+					endSamplePos="133632" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="122"
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 270 [2022-07-05 165056].wav"
+				transpose="-62">
+				<zone
+					startSamplePos="0"
+					endSamplePos="129024" />
+			</sampleRange>
+			<sampleRange
+				fileName="SAMPLES/CommunitySamples/postsolarpunk/MULTISAMPLES/p23 dist2 map/kick dist 271 [2022-07-05 165058].wav"
+				transpose="-63">
+				<zone
+					startSamplePos="0"
+					endSamplePos="115200" />
+			</sampleRange>
+		</sampleRanges>
+	</osc1>
+	<osc2
+		type="square"
+		transpose="0"
+		cents="0"
+		retrigPhase="-1" />
+	<lfo1 type="triangle" syncType="0" syncLevel="0" />
+	<lfo2 type="triangle" />
+	<unison num="1" detune="8" spread="0" />
+	<delay
+		pingPong="1"
+		analog="0"
+		syncType="0"
+		syncLevel="7" />
+	<compressor
+		syncType="0"
+		syncLevel="6"
+		attack="327244"
+		release="936" />
+	<defaultParams
+		arpeggiatorGate="0x00000000"
+		portamento="0x80000000"
+		compressorShape="0xDC28F5B2"
+		oscAVolume="0x7FFFFFFF"
+		oscAPulseWidth="0x00000000"
+		oscAWavetablePosition="0x00000000"
+		oscBVolume="0x80000000"
+		oscBPulseWidth="0x00000000"
+		oscBWavetablePosition="0x00000000"
+		noiseVolume="0x80000000"
+		volume="0x4CCCCCA8"
+		pan="0x00000000"
+		waveFold="0x80000000"
+		lpfFrequency="0x7FFFFFFF"
+		lpfResonance="0x80000000"
+		lpfMorph="0x80000000"
+		hpfFrequency="0x80000000"
+		hpfResonance="0x80000000"
+		hpfMorph="0x80000000"
+		lfo1Rate="0x1999997E"
+		lfo2Rate="0x00000000"
+		modulator1Amount="0x80000000"
+		modulator1Feedback="0x80000000"
+		modulator2Amount="0x80000000"
+		modulator2Feedback="0x80000000"
+		carrier1Feedback="0x80000000"
+		carrier2Feedback="0x80000000"
+		modFXRate="0x00000000"
+		modFXDepth="0x00000000"
+		delayRate="0x00000000"
+		delayFeedback="0x80000000"
+		reverbAmount="0x80000000"
+		arpeggiatorRate="0x00000000"
+		stutterRate="0x00000000"
+		sampleRateReduction="0x80000000"
+		bitCrush="0x80000000"
+		modFXOffset="0x00000000"
+		modFXFeedback="0x00000000">
+		<envelope1
+			attack="0x80000000"
+			decay="0xE6666654"
+			sustain="0x7FFFFFFF"
+			release="0x80000000" />
+		<envelope2
+			attack="0xE6666654"
+			decay="0xE6666654"
+			sustain="0xFFFFFFE9"
+			release="0xE6666654" />
+		<patchCables>
+			<patchCable
+				source="velocity"
+				destination="volume"
+				amount="0x3FFFFFE8" />
+			<patchCable
+				source="aftertouch"
+				destination="volume"
+				amount="0x2A3D7094" />
+			<patchCable
+				source="y"
+				destination="lpfFrequency"
+				amount="0x19999990" />
+		</patchCables>
+		<equalizer
+			bass="0x00000000"
+			treble="0x00000000"
+			bassFrequency="0x00000000"
+			trebleFrequency="0x00000000" />
+	</defaultParams>
+	<arpeggiator
+		mode="off"
+		numOctaves="2"
+		syncType="0"
+		syncLevel="7" />
+	<modKnobs>
+		<modKnob controlsParam="pan" />
+		<modKnob controlsParam="volumePostFX" />
+		<modKnob controlsParam="lpfResonance" />
+		<modKnob controlsParam="lpfFrequency" />
+		<modKnob controlsParam="env1Release" />
+		<modKnob controlsParam="env1Attack" />
+		<modKnob controlsParam="delayFeedback" />
+		<modKnob controlsParam="delayRate" />
+		<modKnob controlsParam="reverbAmount" />
+		<modKnob controlsParam="volumePostReverbSend" patchAmountFromSource="compressor" />
+		<modKnob controlsParam="pitch" patchAmountFromSource="lfo1" />
+		<modKnob controlsParam="lfo1Rate" />
+		<modKnob controlsParam="portamento" />
+		<modKnob controlsParam="stutterRate" />
+		<modKnob controlsParam="bitcrushAmount" />
+		<modKnob controlsParam="sampleRateReduction" />
+	</modKnobs>
+</sound>
