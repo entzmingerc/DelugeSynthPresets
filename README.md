@@ -77,12 +77,6 @@ rephazer
 - Afterlife | Synthstrom Audible Deluge Sound Pack | Multi Sample Patches (https://rephazer.gumroad.com/l/hhchl)
 - Operator's Choise | Synthstrom Audible Deluge Sound Pack | (Multi) Sample Patches (https://rephazer.gumroad.com/l/aumfz)
 
-Oversynth
-- "Reckage" Dark Ambient Sound Pack for Synthstrom Deluge (https://www.oversynth.com/product-page/deja-luge-dark-ambient-sound-pack-for-synthstrom-deluge)
-
-Hypnotic Sounds
-- Chamber 1 Preset pack for the Synthstrom Deluge (https://hypnotic-sounds.sellfy.store/p/chamber-1/)
-
 Red Means Recording
 - Saferooms - Classic Survival Horror Sounds for the Synthstrom Deluge (https://redmeansrecording.gumroad.com/l/saferooms)
 
